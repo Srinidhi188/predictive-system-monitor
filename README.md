@@ -1,14 +1,9 @@
-Perfect 👍 — here’s your **final, copy-ready `README.md`** with emoji headings, colors, code blocks, and everything formatted for GitHub’s dark theme.
-Just **copy everything below exactly as is** and paste it into your `README.md` file in your repo ✅
 
----
-
-```markdown
 # 🧠 Predictive System Monitoring Dashboard  
 ### 🚀 AI-Powered System Health Prediction & Visualization  
 
 **🌐 Live Demo:**  
-🔗 [https://predictive-system-monitor.onrender.com](https://predictive-system-monitor.onrender.com)
+🔗 [https://predictive-system-monitor.onrender.com]   (https://predictive-system-monitor.onrender.com)
 
 ---
 
